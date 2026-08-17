@@ -3,7 +3,7 @@
 
 A Rime-based Wubi input schema for the Jurchen Script
 
-<img src="images/image1.png" alt="契丹小字研究概况" style="zoom: 50%;" />
+<img src="images/image1.png" alt="金宴台國書碑" style="zoom: 50%;" />
 
 ## 一、概述
 
